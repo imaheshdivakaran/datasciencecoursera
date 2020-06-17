@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 Author: MAHESH DIVAKARAN <br />
-Blog Post: [Getting and Cleaning Data Review](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project "Click to go to Repo") <br />
+Github Readme: [Getting and Cleaning Data Review](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project "Click to go to Repo") <br />
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 Full Data Description: [Full data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "Click to get data")
 
@@ -19,7 +19,7 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mahesh
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/README.md "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/Readme.md "README.md")
 
 
 
