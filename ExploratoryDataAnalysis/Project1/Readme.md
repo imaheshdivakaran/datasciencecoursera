@@ -33,7 +33,7 @@ hist(powerDT[, Global_active_power], main="Global Active Power",
 
 dev.off()
 ```
-![](https://github.com/maheshdosm/datasciencecoursera/tree/master/ExploratoryDataAnalysis/Project1/plot1.png)
+![](https://github.com/maheshdosm/datasciencecoursera/ExploratoryDataAnalysis/Project1/plot1.png)
 ```R
 library("data.table")
 
