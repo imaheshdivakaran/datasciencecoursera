@@ -19,7 +19,7 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mahesh
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/README.md "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/maheshdosm/datasciencecoursera/tree/master/Getting%20and%20Cleaning%20Data%20Course%20Project/Readme.md "README.md")
 
 
 
